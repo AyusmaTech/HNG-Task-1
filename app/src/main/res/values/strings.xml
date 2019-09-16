@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Task 1</string>
+    <string name="email">Email</string>
+    <string name="register">Register</string>
+    <string name="already_registered">Already Registered? Login now!</string>
+    <string name="full_name">Full Name</string>
+    <string name="mobile_no">mobile no</string>
+    <string name="password">Password</string>
+    <string name="input_error_name">Name can not be empty</string>
+    <string name="input_error_email">Email can not be empty</string>
+    <string name="input_error_email_invalid">Please enter a valid email address</string>
+    <string name="input_error_password">Password cannot be empty</string>
+    <string name="input_error_password_length">Password length must be more than 6</string>
+    <string name="input_error_phone">Phone no can not be empty</string>
+    <string name="input_error_phone_invalid">Phone number must be 11 digit</string>
+    <string name="not_a_member">Not a member? Get registered now!</string>
+    <string name="login">Login</string>
+    <string name="enter_email">Enter email address</string>
+    <string name="enter_password">Enter password</string>
+    <string name="ful_name">Full Name:</string>
+    <string name="mobil_number">Mobile Number:</string>
+</resources>
